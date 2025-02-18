@@ -1,0 +1,15 @@
+body {
+	background-image: url(https://i.pinimg.com/1200x/84/9e/e4/849ee42d7db38afea78d0a73252b0448.jpg);
+	background-size: cover;
+	font-family: Caprasimo;
+	color: #ffffff;
+	text-shadow: 2px 2px 4px #000000;
+
+}.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: rgba(245, 186, 198, 0.5); 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
